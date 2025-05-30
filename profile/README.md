@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<!--
+dragonfly Provides efficient, stable, securefile distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures. It is hosted by theCloud Native Computing Foundation(CNCF)as anIncubating Level Project.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Simultaneously, we are working a lot of effort on graduating from the CNCF Foundation, and we need your support and contributions🚀!
