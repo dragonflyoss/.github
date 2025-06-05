@@ -1,7 +1,5 @@
 ## Welcome to Dragonfly 👋
 
-![alt](https://raw.githubusercontent.com/dragonflyoss/dragonfly/refs/heads/main/docs/images/logo/dragonfly-linear.svg)
-
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/dragonfly)](https://artifacthub.io/packages/search?repo=dragonfly)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/dragonflyoss/dragonfly/badge)](https://scorecard.dev/viewer/?uri=github.com/dragonflyoss/dragonfly)
 [![Discussions](https://img.shields.io/badge/discussions-on%20github-blue?style=flat-square)](https://github.com/dragonflyoss/dragonfly/discussions)
