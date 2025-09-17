@@ -19,9 +19,10 @@ It is hosted by the Cloud Native Computing Foundation(CNCF)as Incubating Level P
 Here are some of the main repositories in the Dragonfly community:
 
 - [dragonfly](https://github.com/dragonflyoss/dragonfly): The core repository of Dragonfly.
-- [nydus](https://github.com/dragonflyoss/nydus): The Dragonfly image service, providing fast, secure and easy access to container images.
-- [client](https://github.com/dragonflyoss/dragonfly-client): The Dragonfly client, providing a command-line interface for Dragonfly.
-- [api](https://github.com/dragonflyoss/api): Canonical location of the Dragonfly API definition
+- [nydus](https://github.com/dragonflyoss/nydus): Nydus is a Dragonfly sub-project, providing fast, secure and easy access to container images.
+- [client](https://github.com/dragonflyoss/client): The Dragonfly client, providing a command-line interface for Dragonfly.
+- [api](https://github.com/dragonflyoss/api): Canonical location of the Dragonfly API definition files.
+- [d7y.io](https://github.com/dragonflyoss/d7y.io): The official site for Dragonfly, built with Docusaurus.
 - [helm-charts](https://github.com/dragonflyoss/helm-charts): The Helm charts for deploying Dragonfly.
 - [community](https://github.com/dragonflyoss/community): The Dragonfly community repository, providing resources and information for contributors.
 
@@ -43,5 +44,5 @@ Join the conversation and help the community.
 
 ### Contributing and Governance
 
-You may check out our
+You can check out our
 [CONTRIBUTING](https://github.com/dragonflyoss/community/blob/master/CONTRIBUTING.md) and develop the project together. We also have a clear governance model, you can find more information in the [GOVERNANCE](https://github.com/dragonflyoss/community/blob/master/GOVERNANCE.md) document.
