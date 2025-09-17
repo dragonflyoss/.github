@@ -7,9 +7,25 @@
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdragonfly_oss)](https://twitter.com/dragonfly_oss)
 [![LICENSE](https://img.shields.io/github/license/dragonflyoss/dragonfly.svg?style=flat-square)](https://github.com/dragonflyoss/dragonfly/blob/main/LICENSE)
 
+
+![Dragonfly Logo](https://raw.githubusercontent.com/dragonflyoss/dragonfly/main/docs/images/logo/dragonfly-linear.svg)
+
 Dragonfly provides efficient, stable, secure file distribution and image acceleration based on P2P technology
 to be the best practice and standard solution in cloud-native architectures.
 It is hosted by the Cloud Native Computing Foundation(CNCF)as Incubating Level Project.
+
+### Repository
+
+Here are some of the main repositories in the Dragonfly community:
+
+- [dragonfly](https://github.com/dragonflyoss/dragonfly): The core repository of Dragonfly.
+- [nydus](https://github.com/dragonflyoss/nydus): The Dragonfly image service, providing fast, secure and easy access to container images.
+- [client](https://github.com/dragonflyoss/dragonfly-client): The Dragonfly client, providing a command-line interface for Dragonfly.
+- [api](https://github.com/dragonflyoss/api): Canonical location of the Dragonfly API definition
+- [helm-charts](https://github.com/dragonflyoss/helm-charts): The Helm charts for deploying Dragonfly.
+- [community](https://github.com/dragonflyoss/community): The Dragonfly community repository, providing resources and information for contributors.
+
+and we also have some other repositories, you can find more information in the [GitHub organization](https://github.com/dragonflyoss).
 
 ### Documentation
 
@@ -25,7 +41,7 @@ Join the conversation and help the community.
 - **Maintainer Group**: <dragonfly-maintainers@googlegroups.com>
 - **Twitter**: [@dragonfly_oss](https://twitter.com/dragonfly_oss)
 
-### Contributing
+### Contributing and Governance
 
-You should check out our
-[CONTRIBUTING](https://github.com/dragonflyoss/community/blob/master/CONTRIBUTING.md) and develop the project together.
+You may check out our
+[CONTRIBUTING](https://github.com/dragonflyoss/community/blob/master/CONTRIBUTING.md) and develop the project together. We also have a clear governance model, you can find more information in the [GOVERNANCE](https://github.com/dragonflyoss/community/blob/master/GOVERNANCE.md) document.
